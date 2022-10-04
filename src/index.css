@@ -10,3 +10,11 @@ body {
 .App {
   text-align: center;
 }
+
+button{
+  display: flexbox;
+}
+
+.comment{
+  flex-direction: column;
+}
